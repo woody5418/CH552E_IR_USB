@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=VDD33 Pin=C6-1
+Removed Pin From Net: NetName=RST Pin=C6-2
+Removed Member From Class: ClassName=Sheet1 Member=C6
+Change Component Footprint: Designator=C2 Old Footprint=0805_C New Footprint=0603_C
+Change Component Comment : Designator=C2 Old Comment=22uF New Comment=10uF

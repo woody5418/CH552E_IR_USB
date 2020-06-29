@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=P17 Pin=R3-1
+Removed Member From Class: ClassName=Sheet1 Member=R4
+Change Component Footprint: Designator=R1 Old Footprint=0603_R New Footprint=0805_R
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Added Pin To Net: NetName=P17 Pin=R1-2
+Added Member To Class: ClassName=Sheet1 Member=Component C5 NC/47pF
+Added Member To Class: ClassName=Sheet1 Member=Component C6 NC/0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C7 NC/0.1uF
+Added Member To Class: ClassName=Sheet1 Member=Component U2 CH552E

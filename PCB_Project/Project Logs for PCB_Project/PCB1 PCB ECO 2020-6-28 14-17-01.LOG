@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetR4_1 Pin=U1-1
+Removed Pin From Net: NetName=P14 Pin=U1-3
+Added Pin To Net: NetName=P14 Pin=U1-1
+Added Pin To Net: NetName=NetR4_1 Pin=U1-3
+Added Member To Class: ClassName=Sheet1 Member=Component P1 USB AÐÍ¹«Í·
+Added Member To Class: ClassName=Sheet1 Member=Component U1 LF0038
+Added Room: Name=Sheet1

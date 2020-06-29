@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetR4_1 Pin=U1-1
+Removed Pin From Net: NetName=P14 Pin=U1-3
+Change Component Footprint: Designator=U1 Old Footprint=4mm贴片红外接收头 New Footprint=LF0038
+Added Component: Designator=P1(USB_A型公头双面插)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=GND Pin=P1-0
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=P36 Pin=P1-2
+Added Pin To Net: NetName=P37 Pin=P1-3
+Added Pin To Net: NetName=VCC Pin=P1-4
+Added Pin To Net: NetName=P14 Pin=U1-1
+Added Pin To Net: NetName=NetR4_1 Pin=U1-3
+Added Member To Class: ClassName=Sheet1 Member=Component P1 USB A型公头

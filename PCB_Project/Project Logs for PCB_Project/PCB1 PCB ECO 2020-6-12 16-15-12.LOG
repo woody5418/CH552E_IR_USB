@@ -1,0 +1,23 @@
+Added Pin To Net: NetName=VDD33 Pin=C6-1
+Added Pin To Net: NetName=RST Pin=U3-5
+Added Pin To Net: NetName=VCC Pin=U3-9
+Added Pin To Net: NetName=VDD33 Pin=U3-10
+Added Pin To Net: NetName=P14 Pin=U2-3
+Added Pin To Net: NetName=P14 Pin=U3-1
+Added Net: Name=P14
+Added Pin To Net: NetName=P15 Pin=U3-2
+Added Net: Name=P15
+Added Pin To Net: NetName=P16 Pin=U3-3
+Added Net: Name=P16
+Added Pin To Net: NetName=P17 Pin=U3-4
+Added Net: Name=P17
+Added Pin To Net: NetName=P36 Pin=P1-2
+Added Pin To Net: NetName=P36 Pin=R2-2
+Added Pin To Net: NetName=P36 Pin=U3-6
+Added Net: Name=P36
+Added Pin To Net: NetName=P37 Pin=P1-3
+Added Pin To Net: NetName=P37 Pin=U3-7
+Added Net: Name=P37
+Added Member To Class: ClassName=Sheet1 Member=Component R? 4.7k
+Added Member To Class: ClassName=Sheet1 Member=Component R? 4.7k
+Added Room: Name=Sheet1

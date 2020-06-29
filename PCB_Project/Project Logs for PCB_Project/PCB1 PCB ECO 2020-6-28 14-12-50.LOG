@@ -1,0 +1,7 @@
+Added Component: Designator=U1(4mm贴片红外接收头)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetR4_1 Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=P14 Pin=U1-3
+Added Member To Class: ClassName=Sheet1 Member=Component U1 LF0038
+Added Room: Name=Sheet1
